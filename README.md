@@ -18,11 +18,12 @@ This data is from Big Mart Sales Prediction Hackathon in Analytics Vidhya.
 ## Results
 
 #### Sales Per Item Type
-![Sales Per Item Type]()
+![Sales per Item Type](https://user-images.githubusercontent.com/102710414/172982898-a8f3ee72-3031-4ac3-8312-2ae3601f1576.png)
 
 > Sentence about visualization.
 
 #### Visual 2 Title
+![Price and Sales Volume](https://user-images.githubusercontent.com/102710414/172982971-a688482f-2a9e-4e28-a470-564099920ce4.png)
 
 ## Model
 
