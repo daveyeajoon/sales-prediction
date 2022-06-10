@@ -20,27 +20,16 @@ This data is from Big Mart Sales Prediction Hackathon in Analytics Vidhya.
 #### Sales Per Item Type
 ![Sales per Item Type](https://user-images.githubusercontent.com/102710414/172982898-a8f3ee72-3031-4ac3-8312-2ae3601f1576.png)
 
-> Sentence about visualization.
+>Snacks and Fruist & Vegetables had much more sales than other Items.
 
 #### Visual 2 Title
 ![Price and Sales Volume](https://user-images.githubusercontent.com/102710414/172982971-a688482f-2a9e-4e28-a470-564099920ce4.png)
 
+>This is Data Visualization of displaying correlation between Price and Sales Volume.
+
 ## Model
 
-Describe your final model
-
-Report the most important metrics
-
-Refer to the metrics to describe how well the model would solve the business problem
-
-## Recommendations:
-
-More of your own text here
-
-
-## Limitations & Next Steps
-
-More of your own text here
+I have used Linear Regression Model and Decision Tree Model but on this data Linear Regression had more reliabilty.
 
 
 ### For further information
