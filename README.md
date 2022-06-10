@@ -17,8 +17,8 @@ This data is from Big Mart Sales Prediction Hackathon in Analytics Vidhya.
 
 ## Results
 
-#### Visual 1 Title
-![sample image](project1_sample_image.png)
+#### Sales Per Item Type
+![Sales Per Item Type]()
 
 > Sentence about visualization.
 
