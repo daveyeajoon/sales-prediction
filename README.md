@@ -29,7 +29,7 @@ This data is from Big Mart Sales Prediction Hackathon in Analytics Vidhya.
 
 ## Model
 
-I have used Linear Regression Model and Decision Tree Model but on this data Linear Regression had more reliabilty.
+I have used Regression Metrics and Decision Tree Model but on this data Linear Regression had more reliabilty.
 
 
 ### For further information
