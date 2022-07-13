@@ -29,7 +29,7 @@ This data is from Big Mart Sales Prediction Hackathon in Analytics Vidhya.
 
 ## Model
 
-I have used Random Forest and Bagging Regressor.
+I have used Decision Tree and Random Forest to compare Outlet Sales for Big Mart.
 
 
 ### For further information
