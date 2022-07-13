@@ -23,13 +23,13 @@ This data is from Big Mart Sales Prediction Hackathon in Analytics Vidhya.
 >Snacks and Fruist & Vegetables had much more sales than other Items.
 
 #### Visual 2 Title
-![Price and Sales Volume](https://user-images.githubusercontent.com/102710414/172982971-a688482f-2a9e-4e28-a470-564099920ce4.png)
+
 
 >This is Data Visualization of displaying correlation between Price and Sales Volume.
 
 ## Model
 
-I have used Regression Metrics and Decision Tree Model but on this data Linear Regression had more reliabilty.
+I have used Random Forest and Bagging Regressor.
 
 
 ### For further information
