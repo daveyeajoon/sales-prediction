@@ -22,10 +22,10 @@ This data is from Big Mart Sales Prediction Hackathon in Analytics Vidhya.
 
 >Snacks and Fruist & Vegetables had much more sales than other Items.
 
-#### Item MRP Box Plot
+#### Item Maximum Retail Price
 
 ![Item MRP Box Plot](https://user-images.githubusercontent.com/102710414/179084805-28e17052-9bb4-465c-aae8-f9646dd7101f.png)
->This is Data Visualization of displaying correlation between Price and Sales Volume.
+>This Data Visualization is to know range of Big Mart Item's Retail Price.
 
 ## Model
 
