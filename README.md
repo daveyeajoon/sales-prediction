@@ -30,6 +30,7 @@ This data is from Big Mart Sales Prediction Hackathon in Analytics Vidhya.
 ## Model
 
 I have used Decision Tree and Random Forest to compare Outlet Sales for Big Mart.
+I can see that Random Forest Prediction Model has better score than Decision Tree to predict Outlet Sales.
 
 
 ### For further information
