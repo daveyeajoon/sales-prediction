@@ -24,7 +24,7 @@ This data is from Big Mart Sales Prediction Hackathon in Analytics Vidhya.
 
 #### Visual 2 Title
 
-
+![Item MRP Box Plot](https://github.com/daveyeajoon/sales-prediction/issues/5#issue-1305282118)
 >This is Data Visualization of displaying correlation between Price and Sales Volume.
 
 ## Model
